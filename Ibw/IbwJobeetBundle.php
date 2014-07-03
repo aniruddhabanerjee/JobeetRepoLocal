@@ -1,6 +1,6 @@
 <?php
 
-namespace Ibw\JobeetBundle;
+namespace Ibw\JobeetBundlee;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
